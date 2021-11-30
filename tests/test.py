@@ -1,6 +1,6 @@
 from packages import Module
 
-def sorted_last():
+def sort_last():
     """
     make sure sorted algorithms works correctly
     """
